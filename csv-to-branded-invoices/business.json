@@ -1,0 +1,14 @@
+{
+  "name": "Harbor Street Bakery",
+  "initials": "HS",
+  "address": ["218 Harbor Street", "Portland, ME 04101"],
+  "phone": "(207) 555-0139",
+  "email": "wholesale@harborstreetbakery.com",
+  "brand_color": "#7a4b2a",
+  "invoice_prefix": "HSB-",
+  "next_invoice_number": 1041,
+  "tax_rate": 0.055,
+  "tax_label": "Maine sales tax (5.5%)",
+  "payment_days": 14,
+  "payment_terms": "Net 14. Checks payable to Harbor Street Bakery, or pay by ACH using the details on your wholesale account sheet. A 1.5% monthly late fee applies after the due date."
+}

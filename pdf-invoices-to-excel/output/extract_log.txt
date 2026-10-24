@@ -1,0 +1,9 @@
+2026-10-24 16:06:17  INFO    BrightLine_Invoice_0883.pdf: Bright Line Office Supply BL-2026-0883, total 453.46, 4 lines
+2026-10-24 16:06:17  INFO    BrightLine_Invoice_0921.pdf: Bright Line Office Supply BL-2026-0921, total 345.75, 3 lines
+2026-10-24 16:06:17  INFO    greenway inv 2026-117.pdf: Greenway Lawn & Landscape 2026-117, total 360.00, 3 lines
+2026-10-24 16:06:17  INFO    greenway inv 2026-124.pdf: Greenway Lawn & Landscape 2026-124, total 529.00, 3 lines
+2026-10-24 16:06:17  INFO    Northfield_NP-10482.pdf: Northfield Plumbing & Heating NP-10482, total 279.92, 3 lines
+2026-10-24 16:06:17  INFO    Northfield_NP-10517.pdf: Northfield Plumbing & Heating NP-10517, total 741.90, 4 lines
+2026-10-24 16:06:17  INFO    Northfield_NP-10561.pdf: Northfield Plumbing & Heating NP-10561, total 259.54, 2 lines
+2026-10-24 16:06:17  WARNING scan_20260904_0915.pdf: no text layer, probably a scan. Needs OCR or manual entry.
+2026-10-24 16:06:17  INFO    Wrote 7 invoices to invoices.xlsx. Files needing attention: 1

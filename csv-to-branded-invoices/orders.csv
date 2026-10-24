@@ -1,0 +1,19 @@
+order_date,customer,email,address,item,qty,unit_price
+2026-10-05,Copper Kettle Cafe,orders@copperkettlecafe.com,"77 Fore St, Portland, ME 04101",Sourdough boule,12,6.50
+2026-10-05,Copper Kettle Cafe,orders@copperkettlecafe.com,"77 Fore St, Portland, ME 04101",Butter croissant,36,2.25
+2026-10-05,Juniper Lane Market,maria@juniperlanemarket.com,"1420 Forest Ave, Portland, ME 04103",Seeded rye loaf,10,7.00
+2026-10-06,Bayside Books & Coffee,hello@baysidebooks.com,"9 Exchange St, Portland, ME 04101",Blueberry muffin,24,2.75
+2026-10-06,Bayside Books & Coffee,hello@baysidebooks.com,"9 Exchange St, Portland, ME 04101",Morning bun,18,3.10
+2026-10-08,copper kettle cafe ,orders@copperkettlecafe.com,"77 Fore St, Portland, ME 04101",Sourdough boule, 12,$6.50
+2026-10-08,Copper Kettle Cafe,orders@copperkettlecafe.com,"77 Fore St, Portland, ME 04101",Almond croissant,24,2.95
+2026-10-08,Juniper Lane Market,maria@juniperlanemarket.com,"1420 Forest Ave, Portland, ME 04103",Baguette,30,3.25
+2026-10-09,St. Brendan's Parish Hall,office@stbrendansportland.org,"300 Stevens Ave, Portland, ME 04102",Assorted cookie tray (3 dozen),4,32.00
+2026-10-09,St. Brendan's Parish Hall,office@stbrendansportland.org,"300 Stevens Ave, Portland, ME 04102",Lemon pound cake,2,18.50
+2026-10-12,Juniper Lane Market,maria@juniperlanemarket.com,"1420 Forest Ave, Portland, ME 04103",Seeded rye loaf,10,7.00
+2026-10-12,Juniper Lane Market,maria@juniperlanemarket.com,"1420 Forest Ave, Portland, ME 04103",Baguette,30,3.25
+2026-10-12,Bayside Books & Coffee ,hello@baysidebooks.com,"9 Exchange St, Portland, ME 04101",Blueberry muffin,24,2.75
+2026-10-13,Copper Kettle Cafe,orders@copperkettlecafe.com,"77 Fore St, Portland, ME 04101",Butter croissant,36,2.25
+2026-10-15,Copper Kettle Cafe,orders@copperkettlecafe.com,"77 Fore St, Portland, ME 04101",Sourdough boule,12,6.50
+2026-10-15,Juniper Lane Market,maria@juniperlanemarket.com,"1420 Forest Ave, Portland, ME 04103",Cinnamon raisin loaf,8,7.75
+2026-10-16,Bayside Books & Coffee,hello@baysidebooks.com,"9 Exchange St, Portland, ME 04101",Morning bun,18,3.10
+2026-10-16,Bayside Books & Coffee,hello@baysidebooks.com,"9 Exchange St, Portland, ME 04101",Ham and gruyere scone,12,3.85
